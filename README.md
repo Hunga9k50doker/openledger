@@ -1,7 +1,5 @@
 # OPEN LEDGER BOT
 
-![banner](image.png)
-
 - Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=mr6xkpo3ye)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
