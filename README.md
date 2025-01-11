@@ -26,7 +26,7 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/Hunga9k50doker/openledger.git
-   cd opledBot
+   cd openledger
    ```
 2. Install dependencies:
    ```bash
