@@ -17,8 +17,8 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Clone Repository
 
 ```bash
-git clone https://github.com/Hunga9k50doker/OpenLedger.git
-cd OpenLedger
+git clone https://github.com/Hunga9k50doker/openledger.git
+cd openledger
 ```
 
 - Install Dependency
